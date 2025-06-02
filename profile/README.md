@@ -1,12 +1,6 @@
-## Hi there 👋
+# 모.각.공
+> 혼자 공부하기는 싫은데, 혼자 공부하는 것은 혼자라고 생각하는 사람들은 이 앱을 이용하세요~
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 학원을 "공부하는 사람들" 때문에 참여하는 사람들!
+- 혼자 공부하는 것은 의욕이 나지 않는 사람들!!
+- 이 모각공 앱을 이용하면, 전용 취미가, 사업 분야에 적합하여 지역 사람들을 더 좋아하게 됩니다! 여러분과 함께 할 수 있어요~!!
